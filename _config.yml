@@ -79,6 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:LittleMengxin/LittleMengxin.github.io.git
   branch: master
-  message:
+  repository: https://github.com/LittleMengxin/LittleMengxin.github.io.git
